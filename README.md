@@ -15,4 +15,4 @@ Quando rodar, você verá duas caixinhas:
 Como rodar
 1. Baixe ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/bibellinha/amigo-secreto.git
