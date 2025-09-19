@@ -1,8 +1,6 @@
 # Challenge-ONE
 Amigo Secreto
 
-Um simples sorteador de Amigo Secreto feito em HTML, CSS e JavaScript.
-
 Funcionalidades
 - Adicionar e remover participantes
 - Garantia de que ninguém tire a si mesmo
